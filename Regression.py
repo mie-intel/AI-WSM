@@ -1,3 +1,7 @@
+# Kode Regresi
+# Muhammad Khaira Rahmadya Nauval (23/521078/TK/57466)
+# Polikarpus Arya Pradhanika (23/512404/TK/56325)
+
 import itertools
 import math
 import numpy as np
