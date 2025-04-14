@@ -1,14 +1,15 @@
-## AI
+## **Analisis Suhu Rata - rata Harian Singapura**
 
-Canva
-https://www.canva.com/design/DAGi_6Jr2kQ/WTXJ2cbuzgOda52cQnV6dg/edit
+Group 37
+* Muhammad Khaira Rahmadya Nauval (23/521078/TK/57466)
+* Polikarpus Arya Pradhanika (23/512404/TK/56325)
 
-Dataset
-https://data.gov.sg/datasets?query=Historical+Daily+Weather+Records&page=1&resultId=d_03bb2eb67ad645d0188342fa74ad7066#tag/default/GET/rainfall
+Repositori ini berisi
+```
+.ipynb          : Kode implementasi Machine Learning
+Regression.py   : Kode fungsi Regresi
+PPT             : Presentasi Projek
+.csv            : Dataset
+```
 
-kalo mau ngepush
-
-1. git pull origin main
-2. git add .
-3. git commit -m "message"
-4. git push origin main
+Sumber dataset: [Historycal Daily Weather Records](https://data.gov.sg/datasets?query=Historical+Daily+Weather+Records&page=1&resultId=d_03bb2eb67ad645d0188342fa74ad7066#tag/default/GET/rainfall)
