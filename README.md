@@ -12,4 +12,6 @@ PPT             : Presentasi Projek
 .csv            : Dataset
 ```
 
+Link Presentasi: [Klik di sini](https://youtu.be/fY_NDf16CCE)
+
 Sumber dataset: [Historycal Daily Weather Records](https://data.gov.sg/datasets?query=Historical+Daily+Weather+Records&page=1&resultId=d_03bb2eb67ad645d0188342fa74ad7066#tag/default/GET/rainfall)
